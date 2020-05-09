@@ -1,3 +1,5 @@
+# This blocklist helps Pi-hole's admin restrict access to Roblox.
+
 0.0.0.0 roblox.com
 0.0.0.0 www.roblox.com
 0.0.0.0 web.roblox.com
