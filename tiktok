@@ -1,3 +1,5 @@
+# This blocklist helps Pi-hole's admin restrict access to Tiktok.
+
 0.0.0.0 api-h2.tiktokv.com
 0.0.0.0 api21-h2.tiktokv.com
 0.0.0.0 ns-440.awsdns-55.com
